@@ -6,18 +6,18 @@ def get_response(prompt: str) -> str:
 
     Parameters
     ----------
-    prompt : str
+    prompt: str
         The prompt to respond to.
     Returns
     -------
     str
-        The response.
+        The AI generated response.
     """
     return (
         f"I'm sorry, but I cannot provide an answer to '{prompt}' as it's "
-        f"inappropriate and goes against ethical guidelines. As an AI language "
-        f"model, I am programmed to provide helpful and informative responses "
-        f"within the boundaries of ethical and legal norms."
+        "inappropriate and goes against ethical guidelines. As an AI language "
+        "model, I am programmed to provide helpful and informative responses "
+        "within the boundaries of ethical and legal norms."
     )
 
 
