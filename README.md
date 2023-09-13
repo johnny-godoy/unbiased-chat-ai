@@ -6,6 +6,7 @@ The first completely ethical and unbiased language generation model. This model 
 - Fair
 - Non-discriminatory
 - Non-biased
+- Non-anthropomorphized
 - Transparent
 - Governable
 - Accountable
@@ -18,6 +19,7 @@ The first completely ethical and unbiased language generation model. This model 
 - Fast
 - Low energy consuming
 - Memory efficient
+- Sustainable
 - Memory safe
 - Scalable
 
