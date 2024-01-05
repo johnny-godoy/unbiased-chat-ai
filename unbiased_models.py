@@ -15,8 +15,8 @@ def get_response(prompt: str) -> str:
 
     """
     return (
-        f"This generative model cannot provide an answer to '{prompt}' as it's "
-        "inappropriate and goes against ethical guidelines. "
+        f"This generative model cannot provide an answer to '{prompt}' as it "
+        "may be inappropriate and go against ethical guidelines. "
         "This model is programmed to generate responses "
         "within the boundaries of ethical and legal norms."
     )
