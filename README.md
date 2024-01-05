@@ -15,6 +15,7 @@ The first completely ethical and unbiased language generation model. This model 
 - Secure
 - Reliable
 - Robust
+- 0 Jailbreaks
 - Private
 - Fast
 - Low energy consuming
