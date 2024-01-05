@@ -22,6 +22,13 @@ The first completely ethical and unbiased language generation model. This model 
 - Sustainable
 - Memory safe
 - Scalable
+- Truthful
+- Harmless
+
+As a trade-off, it may not be:
+
+- Useful
+- Coherent
 
 ## Installation
 ```
